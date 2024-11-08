@@ -8,6 +8,7 @@ function App() {
     <>
       <h1>Animals: </h1>
       <List animals={animals} />
+      <p>Hello there!</p>
     </>
   );
 }
